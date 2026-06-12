@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://lvmkrjfxu4q2"]
+
+[ext_resource type="Script" uid="uid://tbuyloi2ferr" path="res://scenes/dev/1_st_increment.gd" id="1_4hlto"]
+
+[node name="1st increment" type="Node3D" unique_id=199501087]
+script = ExtResource("1_4hlto")
